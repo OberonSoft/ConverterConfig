@@ -16,6 +16,8 @@ Supported Blocks:
 - Compute
 - FileAppendLines
 - FileRead
+- UrlEncode
+- BytesToBase64
 
 This list will be continuously updated. If your config contains blocks not listed here, an .opk config will only be created with the supported blocks.
 
@@ -41,6 +43,8 @@ Bloques Soportados:
 - Compute
 - FileAppendLines
 - FileRead
+- UrlEncode
+- BytesToBase64
 
 Esta lista se actualizará continuamente. Si tu config contiene bloques no listados aquí, se creará una config .opk solo con los bloques soportados.
 
